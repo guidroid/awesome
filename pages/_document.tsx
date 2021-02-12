@@ -9,7 +9,7 @@ import theme from "../utils/theme";
 class MyDocument extends Document {
   render(): JSX.Element {
     return (
-      <Html lang="en">
+      <Html lang="pt-BR">
         <Head>
           <meta name="theme-color" content={theme.palette.primary.main} />
           <link
