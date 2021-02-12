@@ -13,7 +13,6 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### 0.1.1 (2021-02-12)
 
-
 ### Features
 
 * add initial project files ([375897e](https://github.com/guidroid/awesome.md/commit/375897e253c6f6d611d0f88c5776cc27db4fd289))
